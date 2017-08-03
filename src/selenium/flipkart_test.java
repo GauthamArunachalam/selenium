@@ -27,8 +27,8 @@ public class flipkart_test {
 			Thread.sleep(3000);
 			
 			driver.findElement(By.xpath(".//*[@id='container']/div/header/div[1]/div[1]/div/ul/li[8]/a")).click();// clicks login
-			driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[1]/input")).sendKeys("9789403377");//sends user id to textView
-			driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[2]/input")).sendKeys("9789403377");//sends password to textView
+			driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[1]/input")).sendKeys("");//sends user id to textView
+			driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[2]/input")).sendKeys("");//sends password to textView
 			driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[3]/button")).click();//clicks the login button
 			Thread.sleep(5000);
 			driver.findElement(By.xpath(".//*[@id='container']/div/header/div[1]/div[2]/div/div/div[2]/form/div/div[1]/div/input")).sendKeys("asus zenfone");// sends the key value "asus zenfone" to the flipkart search bar

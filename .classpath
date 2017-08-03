@@ -30,5 +30,12 @@
 	<classpathentry kind="lib" path="B:/sel jars/Jar files for selenium/selenium/selenium-java-2.53.1-srcs.jar"/>
 	<classpathentry kind="lib" path="B:/sel jars/Jar files for selenium/selenium/selenium-server-standalone-2.53.1.jar"/>
 	<classpathentry kind="lib" path="B:/sel jars/Jar files for selenium/selenium/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="B:/sel jars/poi-3.17-beta1/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="B:/sel jars/poi-3.17-beta1/poi-examples-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="B:/sel jars/poi-3.17-beta1/poi-excelant-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="B:/sel jars/poi-3.17-beta1/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="B:/sel jars/poi-3.17-beta1/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="B:/sel jars/poi-3.17-beta1/poi-scratchpad-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="B:/sel jars/sel video/MonteScreenRecorder.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

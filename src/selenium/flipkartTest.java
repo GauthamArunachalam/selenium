@@ -33,8 +33,8 @@ public class flipkartTest {
 		//driver.findElement(By.xpath(".//*[@id='sblsbb']/button")).click();
 		//driver.findElement(By.xpath(".//*[@id='rso']/div[1]/div/div/h3/a")).click();//fipkart click
 		driver.findElement(By.xpath(".//*[@id='container']/div/header/div[1]/div[1]/div/ul/li[9]/a")).click();//login click
-		driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[1]/input")).sendKeys("9789403377");//login no.
-		driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[2]/input")).sendKeys("9789403377");//login password
+		driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[1]/input")).sendKeys("");//login no.
+		driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[2]/input")).sendKeys("");//login password
 		driver.findElement(By.xpath("html/body/div[3]/div/div/div/div/div[2]/div/form/div[3]/button")).click();//login button click
 		driver.findElement(By.xpath(".//*[@id='container']/div/header/div[1]/div[2]/div/div/div[2]/form/div/div[1]/div/input")).sendKeys("ipod");//flipkart search box
 		driver.findElement(By.xpath(".//*[@id='container']/div/header/div[1]/div[2]/div/div/div[2]/form/div/div[2]/button")).click();//flipkart search button
@@ -50,21 +50,8 @@ public class flipkartTest {
 		driver.findElement(By.xpath(".//*[@id='container']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/div/div[2]/div/ul/li[2]/form/button")).click();//buy now click
 		driver.findElement(By.xpath(".//*[@id='order_summary_panel']/div[2]/div[3]/form/div[2]/div/div[1]/a")).click();//continue click
 		
-  }
-  @BeforeClass
-  public void beforeClass() {
-  }
-
-  @AfterClass
-  public void afterClass() {
-  }
-
-  @BeforeTest
-  public void beforeTest() {
-  }
-
-  @AfterTest
-  public void afterTest() {
-  }
-
+ 
+  
+ 
+}
 }

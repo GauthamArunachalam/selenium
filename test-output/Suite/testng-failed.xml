@@ -3,23 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
   <test name="Test1(failed)" parallel="tests">
     <classes>
-      <class name="selenium.flipkart_testTest">
+      <class name="selenium.flip">
         <methods>
-          <include name="afterTest"/>
-          <include name="afterClass"/>
-          <include name="beforeClass"/>
-          <include name="beforeTest"/>
           <include name="f"/>
         </methods>
-      </class> <!-- selenium.flipkart_testTest -->
-      <class name="selenium.redBusTest">
-        <methods>
-          <include name="afterTest"/>
-          <include name="beforeClass"/>
-          <include name="beforeTest"/>
-          <include name="afterClass"/>
-        </methods>
-      </class> <!-- selenium.redBusTest -->
+      </class> <!-- selenium.flip -->
     </classes>
   </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Suite] -->

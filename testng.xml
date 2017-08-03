@@ -3,15 +3,9 @@
 <suite name="Suite" parallel="tests">
   <test name="Test1">
   <classes>
-  <class name = "selenium.flipkart_testTest"></class>
+  <class name = "selenium.flip"></class>
   </classes>
   </test> <!-- Test -->
   
   
-    <test name="Test2">
-  <classes>
-  <class name="selenium.redBusTest">
-  </class>
-  </classes>
-  </test>
   </suite> <!-- Suite -->
