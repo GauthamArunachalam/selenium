@@ -37,5 +37,33 @@
 	<classpathentry kind="lib" path="B:/sel jars/poi-3.17-beta1/poi-ooxml-schemas-3.17-beta1.jar"/>
 	<classpathentry kind="lib" path="B:/sel jars/poi-3.17-beta1/poi-scratchpad-3.17-beta1.jar"/>
 	<classpathentry kind="lib" path="B:/sel jars/sel video/MonteScreenRecorder.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/extentreports-java-2.41.1.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/freemarker.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/java-client-4.0.0.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="B:/TESTING/sel jars/Jar files/testng-6.9.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
